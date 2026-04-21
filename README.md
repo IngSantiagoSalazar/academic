@@ -1,0 +1,2 @@
+# academic
+django workshop
